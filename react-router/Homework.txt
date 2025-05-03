@@ -1,1 +1,0 @@
-Diff Between index route and * route
